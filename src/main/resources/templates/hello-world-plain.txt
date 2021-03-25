@@ -1,0 +1,8 @@
+Hi 
+You are receiving this mail as part of testing on {{today}}.
+
+ we request you not to reply to this mail.
+
+
+Thanks,
+Spring Boot!
